@@ -1,0 +1,16 @@
+{
+	"eqeqeq": true,
+	"globals":
+	{
+		"Phaser": false
+	},
+	"latedef": true,
+	"nocomma": true,
+	"nonbsp": true,
+	"nonew": true,
+	"singleGroups": true,
+	"unused": "strict",
+	"varstmt": true,
+
+	"devel": true // DEBUG only
+}
